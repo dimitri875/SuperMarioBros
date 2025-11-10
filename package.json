@@ -1,0 +1,15 @@
+{
+  "name": "supermariobros",
+  "version": "1.0.0",
+  "description": "Web implementation of NES Super Mario Bros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
